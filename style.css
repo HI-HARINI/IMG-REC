@@ -1,0 +1,19 @@
+.heading{
+width:80%;
+font-size:24px;
+}
+body{
+background-color:cyan;
+color:white;
+}
+.noo{
+display:flex;
+flex-direction:row;
+background-color:#00ffa2;
+padding:10px;
+}
+#camera{
+border:2px dashed white;
+width:350px;
+height:350px;
+}
